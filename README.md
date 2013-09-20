@@ -27,7 +27,7 @@ datatools
   * awk 'rand() < 0.1' file.xxx | ... #obtaining a 10% sample from a file
   * awk -F ";" '{ sum += $3 } END { printf "%.2f\n", sum }' # taking the third column (delimiter=';') and summing it. Printing it with a precision of 2 digits
 
-**make: **
+**make:**
   * use to reccord workflows when having to do the same analysis more than once
   * 
   
