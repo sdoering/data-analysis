@@ -26,6 +26,10 @@ datatools
 **awk:**
   * awk 'rand() < 0.1' file.xxx | ... #obtaining a 10% sample from a file
   * awk -F ";" '{ sum += $3 } END { printf "%.2f\n", sum }' # taking the third column (delimiter=';') and summing it. Printing it with a precision of 2 digits
+  * will print all but very first column:
+    + cat somefile | awk '{$1=""; print $0}'    
+  * will print all but two first columns:
+    + cat somefile | awk '{$1=$2=""; print $0}'
 
 **make:**
   * use to reccord workflows when having to do the same analysis more than once
