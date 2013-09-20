@@ -30,7 +30,11 @@ datatools
     + cat somefile | awk '{$1=""; print $0}'    
   * will print all but two first columns:
     + cat somefile | awk '{$1=$2=""; print $0}'
-
+  * check if one (or multiple) conditions are met:
+    + awk -F ';' '($2 == "ABCD") && ($3 == "MNOP") && ($4 == "KLPM") { print $2, $3;}'  file.xml
+  * show last two columns:
+    + awk '{print $(NF-1),"\t",$NF}' file
+  
 **make:**
   * use to reccord workflows when having to do the same analysis more than once
   * 
