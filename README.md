@@ -11,7 +11,7 @@ datatools
   * grep -v 'irgendwas' # show only lines where 'irgendwas' does not occur
   * 
 
-**cat: **
+**cat:**
 
 **head/tail:**
 
