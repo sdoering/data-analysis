@@ -48,12 +48,12 @@ datatools
   * csv
   * MySQL
   * sqlite3
-  * import tablib
-  * import requests
-  * import dataset
-  * import nltk
-  * import BeautifulSoup
+  * [tablib](https://github.com/kennethreitz/tablib)
+  * [requests](https://github.com/kennethreitz/requests)
+  * [nltk](http://nltk.org/)
+  * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/)
   * [dataset](http://dataset.readthedocs.org/en/latest/quickstart.html#reading-data-from-tables)
+  * [python guide](https://github.com/kennethreitz/python-guide)
   * 
   
 **links:**
