@@ -53,6 +53,7 @@ datatools
   * import dataset
   * import nltk
   * import BeautifulSoup
+  * [dataset](http://dataset.readthedocs.org/en/latest/quickstart.html#reading-data-from-tables)
   * 
   
 **links:**
