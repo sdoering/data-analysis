@@ -34,7 +34,11 @@ datatools
     + awk -F ';' '($2 == "ABCD") && ($3 == "MNOP") && ($4 == "KLPM") { print $2, $3;}'  file.xml
   * show last two columns:
     + awk '{print $(NF-1),"\t",$NF}' file
-  
+  * If, else if && else:
+    +  awk '{if ($5 == "pictureshow"); else if ($6 == "artikel" || $7 == "artikel" || $8 == "artikel" || $9 == "artikel") ; else print $0}'
+       == : equals
+       ~ : is like
+
 **make:**
   * use to reccord workflows when having to do the same analysis more than once
   * 
