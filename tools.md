@@ -36,8 +36,8 @@ datatools
     + awk '{print $(NF-1),"\t",$NF}' file
   * If, else if && else:
     +  awk '{if ($5 == "pictureshow"); else if ($6 == "artikel" || $7 == "artikel" || $8 == "artikel" || $9 == "artikel") ; else print $0}'
-       == : equals
-       ~ : is like
+    +  == : equals
+    +  ~ : is like
 
 **make:**
   * use to reccord workflows when having to do the same analysis more than once
