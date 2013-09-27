@@ -1,4 +1,4 @@
 data-analysis
 =============
 
-Just a repo for reminding me of datatools and their use
+## Just a little collection of snippets of knowledge for data analysis and data science (or whatever may count as that)
