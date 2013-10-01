@@ -42,7 +42,15 @@ datatools
 **make:**
   * use to reccord workflows when having to do the same analysis more than once
   * 
-  
+
+**MySQL**
+  * from db to outfile:
+    SELECT id,product_name FROM orders
+    INTO OUTFILE '/tmp/orders.csv'
+    FIELDS TERMINATED BY ','
+    ENCLOSED BY '"'
+    LINES TERMINATED BY '\n'
+
 **python:**
   Good for more complex analysis
   * ipython(!!!)
