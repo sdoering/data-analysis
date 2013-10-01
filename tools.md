@@ -44,7 +44,8 @@ datatools
   * 
 
 **MySQL**
-  * from db to outfile:
+  * This will create a tab-separated file, each row on its own line. To alter this behavior, it is possible to add modifiers to the query:
+ 
     SELECT id,product_name FROM orders
     INTO OUTFILE '/tmp/orders.csv'
     FIELDS TERMINATED BY ','
