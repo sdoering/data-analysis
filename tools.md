@@ -54,13 +54,11 @@ datatools
 
 **python:**
   Good for more complex analysis
-  * ipython(!!!)
-  * 
-  
-  * pandas
-  * csv
-  * MySQL
-  * sqlite3
+  * [ipython](http://ipython.org/)!!!
+  * [pandas](http://pandas.pydata.org/)
+  * [csv](http://docs.python.org/2/library/csv.html)
+  * [MySQL](https://code.google.com/p/pymysql/)
+  * [sqlite3](http://docs.python.org/2/library/sqlite3.html)
   * [tablib](https://github.com/kennethreitz/tablib)
   * [requests](https://github.com/kennethreitz/requests)
   * [nltk](http://nltk.org/)
