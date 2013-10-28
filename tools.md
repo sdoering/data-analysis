@@ -42,6 +42,9 @@ datatools
 **make:**
   * use to reccord workflows when having to do the same analysis more than once
   * 
+  
+**Shell Scripting**
+  * [testing exit values](blog.sanctum.geek.nz/testing-exit-values-bash/)
 
 **MySQL**
   * This will create a tab-separated file, each row on its own line. To alter this behavior, it is possible to add modifiers to the query:
