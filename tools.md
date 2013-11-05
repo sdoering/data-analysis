@@ -69,6 +69,10 @@ datatools
   * [dataset](http://dataset.readthedocs.org/en/latest/quickstart.html#reading-data-from-tables)
   * [python guide](https://github.com/kennethreitz/python-guide)
   * 
+
+**XPath**
+  * [good first overview](http://news.rapgenius.com/Mat-brown-xpath-is-actually-pretty-useful-once-it-stops-being-confusing-lyrics)
+  * 
   
 **links:**
  * [http://www.gregreda.com/2013/07/15/unix-commands-for-data-science/](http://www.gregreda.com/2013/07/15/unix-commands-for-data-science/)
