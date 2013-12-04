@@ -26,3 +26,5 @@
   + [A Bayesioan Approach to A/B Testing](http://blog.custora.com/2012/05/a-bayesian-approach-to-ab-testing/)
   + [Bayesian headline testing at Visual Revenue](http://jeroenjanssens.com/2013/08/18/bayesian-headline-testing-at-visual-revenue.html)
   + 
+* Data Presentation
+  + [Learning to present data with d3.js](http://chimera.labs.oreilly.com/books/1230000000345/ch07.html#_apples_and_pixels)
