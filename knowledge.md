@@ -4,6 +4,7 @@
 
 * [openblas for ubuntu](http://osdf.github.io/blog/numpyscipy-with-openblas-for-ubuntu-1204-second-try.html)
 
+**NOW COMES THE R EST**
 
 * Cosine similarity
 
