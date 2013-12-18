@@ -1,5 +1,10 @@
 #Knowledge for data analysis
 
+**IF I EVER HAVE TO USE NUMPY AGAIN ON UBUNTU:**
+
+* [openblas for ubuntu](http://osdf.github.io/blog/numpyscipy-with-openblas-for-ubuntu-1204-second-try.html)
+
+
 * Cosine similarity
 
 * euklidean distance
