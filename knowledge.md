@@ -4,7 +4,11 @@
 
 * [openblas for ubuntu](http://osdf.github.io/blog/numpyscipy-with-openblas-for-ubuntu-1204-second-try.html)
 
-**NOW COMES THE R EST**
+**Working on the console in parallel**
++ [Link 1 - Inspiration](http://www.rankfocus.com/use-cpu-cores-linux-commands/)
++ [Link 2 - Examples](http://randyzwitch.com/gnu-parallel-medium-data/)
+
+**NOW COMES THE REST**
 
 * Cosine similarity
 
